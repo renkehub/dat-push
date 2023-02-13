@@ -1,1 +1,20 @@
-{"app_id": "wx37dbfecc32d637ed", "app_secret": "31289ec3c4500bc8454e469cf0623b8c", "template_id": "MAH3gqwVLtVwYe_TpWJIk_X2ku6hg2Qpu634LDw7BgM", "user": ["osM5c5mg3PStdRUTWCUl9oggjwVs"], "province": "湖南", "city": "长沙", "birthday": "2023-11-16", "love_date": "2022-05-20", "Whether_Eng": "\u662f", "caihongpi_API": "", "lizhi_API": "", "tianqi_API": "", "health_API": "", "lucky_API": "", "astro": "\u5c04\u624b\u5ea7"}
+{
+	"app_id": "wx37dbfecc32d637ed",
+	"app_secret": "31289ec3c4500bc8454e469cf0623b8c",
+	"template_id": "MAH3gqwVLtVwYe_TpWJIk_X2ku6hg2Qpu634LDw7BgM",
+	"user": [
+		"osM5c5mg3PStdRUTWCUl9oggjwVs",
+		"osM5c5jyb7b2uXniiMPMl8avWoEI"
+	],
+	"province": "湖南",
+	"city": "长沙",
+	"birthday": "2023-11-16",
+	"love_date": "2022-05-20",
+	"Whether_Eng": "是",
+	"caihongpi_API": "",
+	"lizhi_API": "",
+	"tianqi_API": "",
+	"health_API": "",
+	"lucky_API": "",
+	"astro": "射手座"
+}
